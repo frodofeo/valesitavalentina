@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Conecta conmigo</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      background-image: url('https://i.imgur.com/FlBUQMD.jpeg');
+      background-size: cover;
+      background-position: center;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin: 30px auto 10px;
+      border: 3px solid #fff;
+    }
+    h1 {
+      font-size: 22px;
+      margin: 10px 20px;
+      font-weight: bold;
+      color: #f2f2f2;
+    }
+    p {
+      font-size: 16px;
+      margin: 10px 30px 30px;
+      color: #ccc;
+    }
+    a.btn {
+      display: block;
+      background-color: #1da1f2;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 14px 0;
+      margin: 10px auto;
+      width: 80%;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(29, 161, 242, 0.5);
+      transition: background-color 0.3s ease;
+    }
+    a.btn:hover {
+      background-color: #0d8ddb;
+    }
+    footer {
+      font-size: 12px;
+      color: #666;
+      margin: 40px 0 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header" aria-label="Imagen de perfil"></div>
+  <h1>¡Hola! Bienvenido a mi espacio</h1>
+  <p>Conecta conmigo en todas mis redes. Contenido exclusivo, divertido y auténtico.</p>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">YouTube</a>
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">Telegram VIP</a>
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">Telegram Gratuito</a>
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">Instagram</a>
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">Facebook</a>
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">OnlyFans</a>
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" target="_blank" rel="noopener noreferrer" class="btn">WhatsApp</a>
+
+  <footer>© 2025 Todos los derechos reservados.</footer>
+</body>
+</html>
