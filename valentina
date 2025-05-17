@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Conecta conmigo</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      background-image: url('https://i.imgur.com/FlBUQMD.jpeg');
+      background-size: cover;
+      background-position: center;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin: 30px auto 10px;
+      border: 3px solid #fff;
+    }
+    h1 {
+      font-size: 22px;
+      margin: 10px 20px;
+      font-weight: bold;
+      color: #f2f2f2;
+    }
+    p {
+      font-size: 16px;
+      margin: 10px 30px 30px;
+      color: #ccc;
+    }
+    a.btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      background-color: #1da1f2;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 14px 0;
+      margin: 10px auto;
+      width: 80%;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(29, 161, 242, 0.5);
+      transition: background-color 0.3s ease;
+    }
+    a.btn:hover {
+      background-color: #0d8ddb;
+    }
+    .icon {
+      width: 22px;
+      height: 22px;
+    }
+    footer {
+      font-size: 12px;
+      color: #666;
+      margin: 40px 0 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header" aria-label="Imagen de perfil"></div>
+  <h1>¡Hola! Bienvenido a mi espacio</h1>
+  <p>Conecta conmigo en todas mis redes. Contenido exclusivo, divertido y auténtico.</p>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="icon" alt="YouTube"> YouTube
+  </a>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" class="icon" alt="Telegram"> Telegram VIP
+  </a>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" class="icon" alt="Telegram"> Telegram Gratuito
+  </a>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" class="icon" alt="Instagram"> Instagram
+  </a>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" class="icon" alt="Facebook"> Facebook
+  </a>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" class="icon" alt="OnlyFans"> OnlyFans
+  </a>
+
+  <a href="https://sincerecompatriot.com/fzsfecn5r?key=cf9c4b4e77c8205bb62df00f8d1c7b33" class="btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" class="icon" alt="WhatsApp"> WhatsApp
+  </a>
+
+  <footer>© 2025 Todos los derechos reservados.</footer>
+</body>
+</html>
